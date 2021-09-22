@@ -1,4 +1,5 @@
 # NBA-Spread-Analyzer
-Simple way to view/analyze a NBA team's difference in score totals throughout a specified season. View the demo below to see the code in action (make sure to adjust the resolution so it isn't so blurry; apologies in advnace as the demo was shot on a vertical monitor in order to capture the entire notebook)
+Interactive plot to analyze any NBA team's difference in score totals (point differential) throughout a specified season
 
-[![Watch the video](https://i.imgur.com/K9pG6Sd.png)](https://youtu.be/yobkn-a8rts)
+Demo: https://youtu.be/yobkn-a8rts
+![Screen Shot 2021-08-23 at 2 32 11 PM](https://user-images.githubusercontent.com/28836509/134431115-19d5265c-d2d5-40f1-a3a1-617f5b9c0865.png)
